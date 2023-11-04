@@ -1,0 +1,1 @@
+This is clone of AccioJob website made by Rajat Singh using HTML and CSS.
